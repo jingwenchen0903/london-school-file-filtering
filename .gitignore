@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.DS_Store
+
+# Input data
+data/*.xlsx
+data/*.xls
+data/*.csv
+data/performance_2025/
+
+# Output files
+output/*
